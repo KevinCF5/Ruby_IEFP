@@ -1,0 +1,7 @@
+--- Relatório de Erros ---
+INFO: 17
+WARN: 4
+ERRO: 4
+CRITICAL: 1
+--------------------
+Total de eventos analisado: 26
